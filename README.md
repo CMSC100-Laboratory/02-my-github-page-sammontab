@@ -14,3 +14,12 @@ Key takeaways:
 
 References:
 Docs link: https://docs.google.com/document/d/1nJyBGvKyonsqfpziPQUk01VJWDlkM1eCRJIkStfooiA/edit?usp=sharing
+
+HTML references:
+https://fonts.google.com/specimen/Lexend
+https://www.w3schools.com/tags/att_meta_charset.asp
+https://www.w3schools.com/html/html_responsive.asp
+
+CSS references:
+Color Palette used is based on the GDocs link provided
+
